@@ -1,5 +1,7 @@
 # classes
 class Calculator
+  def initialize
+  
   def add(a,b)
     a + b
   end
@@ -7,5 +9,5 @@ class Calculator
   def subtract(a,b)
     a - b
   end
-  
+
 end
